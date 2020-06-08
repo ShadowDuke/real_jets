@@ -1,6 +1,12 @@
 # Realistic Jets (for Hearts of Iron 4)
  
- From Steam [here](https://steamcommunity.com/sharedfiles/filedetails/?id=706817405)
+From Steam [here](https://steamcommunity.com/sharedfiles/filedetails/?id=706817405)
+ 
+## Installation and use
+
+1. [Download](https://github.com/ShadowDuke/real_jets/archive/master.zip) the files and put the **"real_jets"** directory in C:\Users\##\Documents\Paradox Interactive\Hearts of Iron IV\mod 
+- Help: Windows Explorer; click on Documents; navigate to \Paradox Interactive\Hearts of Iron IV\
+2. Enable it in the launcher and dont mind outdated version infos
  
 This mod will show a variety of "original" Jet pictures instead the default blacked ones for the following Nations:
 
